@@ -13,7 +13,7 @@ Passionate about building real-world applications using Java, Spring Boot, Pytho
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,js,spring,flask,git,github,vscode,eclipse,maven" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,js,spring,flask,git,github,linux,vscode,eclipse,maven" />
 </p>
 
 ---
